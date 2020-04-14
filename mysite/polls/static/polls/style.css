@@ -1,0 +1,10 @@
+body {
+    background: blue url("images/main.jpg") no-repeat; 
+    color: whitesmoke;
+    font-size: 20px;
+}
+li a {
+    color: red;
+    font-size: 20px;
+    background: yellowgreen;
+}
